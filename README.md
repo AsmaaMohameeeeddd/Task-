@@ -13,3 +13,4 @@ This project builds a pipeline to convert electric appliance PDFs (TVs, fridges,
 6. **Deployment**: Streamlit-based chatbot hosted locally and via HuggingFace Spaces
 
    
+![App Screenshot](app_screen.png)
